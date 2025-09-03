@@ -1,0 +1,10 @@
+format document with
+    install prettier extension
+    right click >> format document with >> configure deafult format >> prettier
+    go to setting >> setting >> search format on save >> check format on save
+
+
+Element/Tag:
+    1. Block Element: Takes up whole line and space. Always starts from new line. Example: <p><\p>
+
+    2. Inline Element: Always consumes required space. Starts beside the 1st line. Example: <span><\span>
